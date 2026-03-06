@@ -2,4 +2,4 @@ a = 10
 b = 20
 c = a + b
 print("Sum is:", c)
-print("Addition completed")
+print("subcription completed")
